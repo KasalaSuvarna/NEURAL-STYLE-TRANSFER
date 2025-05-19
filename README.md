@@ -26,3 +26,4 @@ This project combines the power of deep learning with a simple UI, making it a p
 
 In summary, this Neural Style Transfer project bridges the gap between complex AI models and user-friendly interaction. It demonstrates how deep learning models like VGG19 can be repurposed for artistic creation, and how frameworks like Streamlit can bring them to life through intuitive interfaces. This blend of machine learning, computer vision, and user experience design makes it a compelling and modern AI project.
 ## Output : 
+![Image](https://github.com/user-attachments/assets/ecbe2bb1-d4a0-431f-b142-5409f19e6ae6) 
